@@ -22,6 +22,10 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Test1
+  - m_GUID: 3ea96e8df30aa1941ab1d2929ff9d781
+    m_Address: Assets/Prefabs/Quad.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 05f2121f73b630446b80a9f9ebb08ace, type: 2}
   m_SchemaSet:
